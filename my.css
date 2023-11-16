@@ -1,0 +1,80 @@
+body{background-color: aquamarine;}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+.one{
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+.two{
+    font-family: Arial, ;
+}
+.three{
+    font-weight:normal;
+}
+.four{
+    font-weight: bold;
+}
+.five{
+    font-style: italic;
+}
+.six{
+    font-style: normal;
+}
+.seven{
+    font-style: oblique;
+}
+.eight{
+    text-transform: uppercase;
+}
+.nine{
+    text-transform: lowercase;
+}
+.ten{
+    text-transform: capitalize;
+}
+.elven{text-decoration: underline;}
+.twelve{text-decoration: overline;}
+p{
+    line-height: 1.8em;
+}
+.thirteen{
+    text-transform: uppercase;
+    letter-spacing: 0.9em;
+}
+.fourteen{
+    text-transform: lowercase;
+    word-spacing: 66em;
+}
+.fiveteen{
+    text-align: right;
+}
+.sixteen{
+    text-align: left;
+}
+.seventeen{
+    text-align: justify;
+}
+img.a { vertical-
+    align: baseline;
+   }
+   
+   img.b {
+     vertical-align: text-top;
+   }
+   
+   img.c {
+     vertical-align: text-bottom;
+   }
+   
+   img.d {
+     vertical-align: sub;
+   }
+   
+   img.e {
+     vertical-align: super;
+   }
+   .eighteen{
+    background-image: url(./imp.png/download.png);
+    background-repeat: no-repeat;
+    text-indent: -999px;
+   }
